@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\ModenUI\ModenUI\bin\Debug\ModenUI.exe.config
+C:\Users\legen\source\repos\ModenUI\ModenUI\bin\Debug\ModenUI.exe
+C:\Users\legen\source\repos\ModenUI\ModenUI\bin\Debug\ModenUI.pdb
+C:\Users\legen\source\repos\ModenUI\ModenUI\obj\Debug\ModenUI.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\ModenUI\ModenUI\obj\Debug\ModenUI.Form1.resources
+C:\Users\legen\source\repos\ModenUI\ModenUI\obj\Debug\ModenUI.Properties.Resources.resources
+C:\Users\legen\source\repos\ModenUI\ModenUI\obj\Debug\ModenUI.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\ModenUI\ModenUI\obj\Debug\ModenUI.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\ModenUI\ModenUI\obj\Debug\ModenUI.exe
+C:\Users\legen\source\repos\ModenUI\ModenUI\obj\Debug\ModenUI.pdb
